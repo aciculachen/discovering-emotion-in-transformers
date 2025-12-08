@@ -1,0 +1,48 @@
+emotion,feature_layer,feature_id,prompt,rank,position,token,activation
+Joy,25,13068,"Haha, well it sounds like its done too good of a job!",1,14,!,29.18372344970703
+Joy,25,13068,"Haha, well it sounds like its done too good of a job!",2,10, good,26.216907501220703
+Joy,25,13068,"Haha, well it sounds like its done too good of a job!",3,13, job,25.603172302246094
+Joy,25,13068,"Haha, well it sounds like its done too good of a job!",4,1,Haha,21.3841552734375
+Joy,25,13068,"Haha, well it sounds like its done too good of a job!",5,9, too,20.541156768798828
+Joy,25,13068,"Haha, well it sounds like its done too good of a job!",6,8, done,17.07672882080078
+Joy,25,13068,"Haha, well it sounds like its done too good of a job!",7,0,<bos>,0.0
+Joy,25,13068,"Haha, well it sounds like its done too good of a job!",8,2,",",0.0
+Joy,25,13068,"Haha, well it sounds like its done too good of a job!",9,3, well,0.0
+Joy,25,13068,"Haha, well it sounds like its done too good of a job!",10,4, it,0.0
+Sadness,25,66,Same here. It's very hard. I really feel for you.,1,15,.,31.247283935546875
+Sadness,25,66,Same here. It's very hard. I really feel for you.,2,6,s,28.384544372558594
+Sadness,25,66,Same here. It's very hard. I really feel for you.,3,9,.,28.100860595703125
+Sadness,25,66,Same here. It's very hard. I really feel for you.,4,14, you,24.801509857177734
+Sadness,25,66,Same here. It's very hard. I really feel for you.,5,8, hard,24.52385139465332
+Sadness,25,66,Same here. It's very hard. I really feel for you.,6,7, very,23.813812255859375
+Sadness,25,66,Same here. It's very hard. I really feel for you.,7,3,.,23.807565689086914
+Sadness,25,66,Same here. It's very hard. I really feel for you.,8,12, feel,20.71921157836914
+Sadness,25,66,Same here. It's very hard. I really feel for you.,9,11, really,16.007850646972656
+Sadness,25,66,Same here. It's very hard. I really feel for you.,10,13, for,12.381561279296875
+Anger,23,11903,"Dude, wtf is wrong with you?",1,8,?,108.10578155517578
+Anger,23,11903,"Dude, wtf is wrong with you?",2,2,",",51.14654541015625
+Anger,23,11903,"Dude, wtf is wrong with you?",3,3, wtf,32.619834899902344
+Anger,23,11903,"Dude, wtf is wrong with you?",4,7, you,28.734237670898438
+Anger,23,11903,"Dude, wtf is wrong with you?",5,1,Dude,19.22045135498047
+Anger,23,11903,"Dude, wtf is wrong with you?",6,0,<bos>,0.0
+Anger,23,11903,"Dude, wtf is wrong with you?",7,4, is,0.0
+Anger,23,11903,"Dude, wtf is wrong with you?",8,5, wrong,0.0
+Anger,23,11903,"Dude, wtf is wrong with you?",9,6, with,0.0
+Fear,25,3410,That's nightmare fuel right there,1,5, fuel,32.24661636352539
+Fear,25,3410,That's nightmare fuel right there,2,7, there,31.179744720458984
+Fear,25,3410,That's nightmare fuel right there,3,4, nightmare,20.28618621826172
+Fear,25,3410,That's nightmare fuel right there,4,0,<bos>,0.0
+Fear,25,3410,That's nightmare fuel right there,5,1,That,0.0
+Fear,25,3410,That's nightmare fuel right there,6,2,',0.0
+Fear,25,3410,That's nightmare fuel right there,7,3,s,0.0
+Fear,25,3410,That's nightmare fuel right there,8,6, right,0.0
+Disgust,24,10476,This is repulsive what the fuck is wrong with places like this.,1,13,.,52.66803741455078
+Disgust,24,10476,This is repulsive what the fuck is wrong with places like this.,2,12, this,37.25463104248047
+Disgust,24,10476,This is repulsive what the fuck is wrong with places like this.,3,6, fuck,20.03498077392578
+Disgust,24,10476,This is repulsive what the fuck is wrong with places like this.,4,8, wrong,14.958288192749023
+Disgust,24,10476,This is repulsive what the fuck is wrong with places like this.,5,9, with,14.434442520141602
+Disgust,24,10476,This is repulsive what the fuck is wrong with places like this.,6,4, what,14.415258407592773
+Disgust,24,10476,This is repulsive what the fuck is wrong with places like this.,7,0,<bos>,0.0
+Disgust,24,10476,This is repulsive what the fuck is wrong with places like this.,8,1,This,0.0
+Disgust,24,10476,This is repulsive what the fuck is wrong with places like this.,9,2, is,0.0
+Disgust,24,10476,This is repulsive what the fuck is wrong with places like this.,10,3, repulsive,0.0

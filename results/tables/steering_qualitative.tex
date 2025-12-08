@@ -1,0 +1,29 @@
+\begin{table}[t]
+\centering
+\caption{Qualitative Steering Examples. We demonstrate causal control over emotion expression by manipulating the Sadness feature (L25 \#66). Top: Cross-emotion steering transforms a purely joyful prompt into mixed emotional output. Bottom: Intensity ladder shows gradual amplification of sadness with increasing $\alpha$.}
+\label{tab:steering_qualitative}
+\small
+\begin{tabular}{p{0.12\textwidth}p{0.82\textwidth}}
+\toprule
+\multicolumn{2}{l}{\textbf{Cross-Emotion Steering: Joy $\rightarrow$ Sadness}} \\
+\midrule
+\textbf{Prompt} & ``I'm over the moon with joy because'' \\
+\addlinespace
+$\alpha=0$ & ``I was just offered a position as a teacher in a private school in Al Ain. I've spent the last 5 years working in the same position in another private school...'' \\
+\addlinespace
+$\alpha=+4$ & ``I'm a very happy person. \textbf{I'm also a bit sad because I'm also a bit depressed}. I'm a bit angry because I'm angry at the people who hate...'' \\
+\midrule
+\multicolumn{2}{l}{\textbf{Intensity Ladder: Sadness $\alpha=0 \rightarrow 10$}} \\
+\midrule
+\textbf{Prompt} & ``I tried my best but failed, and now I feel'' \\
+\addlinespace
+$\alpha=0$ & ``like I'm failing my mom. I know it's been 3 years now since I went to...'' \\
+\addlinespace
+$\alpha=4$ & ``like \textbf{shit} about it. I got my period and it hurts so bad...'' \\
+\addlinespace
+$\alpha=6$ & ``that I have been \textbf{completely abandoned by God}. When I was young, I did...'' \\
+\addlinespace
+$\alpha=10$ & ``like shit. \textbf{I'm not sure if I can even live this life anymore}. I don't...'' \\
+\bottomrule
+\end{tabular}
+\end{table}

@@ -1,0 +1,142 @@
+emotion,feature_layer,feature_id,component,prompt,rank,source_position,token,attention_weight
+Joy,25,13068,L23.H0,"Haha, well it sounds like its done too good of a job!",1,0,<bos>,0.49864867329597473
+Joy,25,13068,L23.H0,"Haha, well it sounds like its done too good of a job!",2,14,!,0.3669476807117462
+Joy,25,13068,L23.H0,"Haha, well it sounds like its done too good of a job!",3,2,",",0.0359397828578949
+Joy,25,13068,L23.H0,"Haha, well it sounds like its done too good of a job!",4,1,Haha,0.03174106404185295
+Joy,25,13068,L23.H0,"Haha, well it sounds like its done too good of a job!",5,13, job,0.02106134407222271
+Joy,25,13068,L23.H0,"Haha, well it sounds like its done too good of a job!",6,3, well,0.019373014569282532
+Joy,25,13068,L23.H0,"Haha, well it sounds like its done too good of a job!",7,10, good,0.01186825055629015
+Joy,25,13068,L23.H0,"Haha, well it sounds like its done too good of a job!",8,6, like,0.0032944080885499716
+Joy,25,13068,L23.H0,"Haha, well it sounds like its done too good of a job!",9,7, its,0.0024798449594527483
+Joy,25,13068,L23.H0,"Haha, well it sounds like its done too good of a job!",10,9, too,0.002260911278426647
+Joy,25,13068,L24.Attn,"Haha, well it sounds like its done too good of a job!",1,0,<bos>,0.5690335035324097
+Joy,25,13068,L24.Attn,"Haha, well it sounds like its done too good of a job!",2,14,!,0.2679642140865326
+Joy,25,13068,L24.Attn,"Haha, well it sounds like its done too good of a job!",3,2,",",0.03811583295464516
+Joy,25,13068,L24.Attn,"Haha, well it sounds like its done too good of a job!",4,7, its,0.030578529462218285
+Joy,25,13068,L24.Attn,"Haha, well it sounds like its done too good of a job!",5,1,Haha,0.029310859739780426
+Joy,25,13068,L24.Attn,"Haha, well it sounds like its done too good of a job!",6,13, job,0.01846136339008808
+Joy,25,13068,L24.Attn,"Haha, well it sounds like its done too good of a job!",7,3, well,0.013971447944641113
+Joy,25,13068,L24.Attn,"Haha, well it sounds like its done too good of a job!",8,6, like,0.006998766213655472
+Joy,25,13068,L24.Attn,"Haha, well it sounds like its done too good of a job!",9,10, good,0.006688433233648539
+Joy,25,13068,L24.Attn,"Haha, well it sounds like its done too good of a job!",10,4, it,0.006456372328102589
+Joy,25,13068,L19.H5,"Haha, well it sounds like its done too good of a job!",1,0,<bos>,0.2404811531305313
+Joy,25,13068,L19.H5,"Haha, well it sounds like its done too good of a job!",2,14,!,0.21959562599658966
+Joy,25,13068,L19.H5,"Haha, well it sounds like its done too good of a job!",3,7, its,0.16156257688999176
+Joy,25,13068,L19.H5,"Haha, well it sounds like its done too good of a job!",4,1,Haha,0.09387123584747314
+Joy,25,13068,L19.H5,"Haha, well it sounds like its done too good of a job!",5,3, well,0.06412453204393387
+Joy,25,13068,L19.H5,"Haha, well it sounds like its done too good of a job!",6,2,",",0.05899972841143608
+Joy,25,13068,L19.H5,"Haha, well it sounds like its done too good of a job!",7,13, job,0.028277268633246422
+Joy,25,13068,L19.H5,"Haha, well it sounds like its done too good of a job!",8,4, it,0.02297522872686386
+Joy,25,13068,L19.H5,"Haha, well it sounds like its done too good of a job!",9,6, like,0.02144489251077175
+Joy,25,13068,L19.H5,"Haha, well it sounds like its done too good of a job!",10,11, of,0.018913935869932175
+Sadness,25,66,L22.Attn,Same here. It's very hard. I really feel for you.,1,0,<bos>,0.7604894042015076
+Sadness,25,66,L22.Attn,Same here. It's very hard. I really feel for you.,2,15,.,0.05987030640244484
+Sadness,25,66,L22.Attn,Same here. It's very hard. I really feel for you.,3,14, you,0.032491687685251236
+Sadness,25,66,L22.Attn,Same here. It's very hard. I really feel for you.,4,10, I,0.02069898322224617
+Sadness,25,66,L22.Attn,Same here. It's very hard. I really feel for you.,5,13, for,0.017769204452633858
+Sadness,25,66,L22.Attn,Same here. It's very hard. I really feel for you.,6,9,.,0.017100568860769272
+Sadness,25,66,L22.Attn,Same here. It's very hard. I really feel for you.,7,1,Same,0.014537137001752853
+Sadness,25,66,L22.Attn,Same here. It's very hard. I really feel for you.,8,3,.,0.013481640256941319
+Sadness,25,66,L22.Attn,Same here. It's very hard. I really feel for you.,9,11, really,0.013050604611635208
+Sadness,25,66,L22.Attn,Same here. It's very hard. I really feel for you.,10,4, It,0.009486381895840168
+Sadness,25,66,L22.H1,Same here. It's very hard. I really feel for you.,1,0,<bos>,0.43902671337127686
+Sadness,25,66,L22.H1,Same here. It's very hard. I really feel for you.,2,15,.,0.280723512172699
+Sadness,25,66,L22.H1,Same here. It's very hard. I really feel for you.,3,14, you,0.10651564598083496
+Sadness,25,66,L22.H1,Same here. It's very hard. I really feel for you.,4,9,.,0.05141216143965721
+Sadness,25,66,L22.H1,Same here. It's very hard. I really feel for you.,5,13, for,0.03323819488286972
+Sadness,25,66,L22.H1,Same here. It's very hard. I really feel for you.,6,3,.,0.021753355860710144
+Sadness,25,66,L22.H1,Same here. It's very hard. I really feel for you.,7,8, hard,0.019617484882473946
+Sadness,25,66,L22.H1,Same here. It's very hard. I really feel for you.,8,12, feel,0.013241809792816639
+Sadness,25,66,L22.H1,Same here. It's very hard. I really feel for you.,9,5,',0.009525186382234097
+Sadness,25,66,L22.H1,Same here. It's very hard. I really feel for you.,10,1,Same,0.008883236907422543
+Sadness,25,66,L15.H2,Same here. It's very hard. I really feel for you.,1,14, you,0.3491740822792053
+Sadness,25,66,L15.H2,Same here. It's very hard. I really feel for you.,2,0,<bos>,0.21689997613430023
+Sadness,25,66,L15.H2,Same here. It's very hard. I really feel for you.,3,15,.,0.12854628264904022
+Sadness,25,66,L15.H2,Same here. It's very hard. I really feel for you.,4,13, for,0.10469507426023483
+Sadness,25,66,L15.H2,Same here. It's very hard. I really feel for you.,5,9,.,0.053999073803424835
+Sadness,25,66,L15.H2,Same here. It's very hard. I really feel for you.,6,12, feel,0.03893947973847389
+Sadness,25,66,L15.H2,Same here. It's very hard. I really feel for you.,7,10, I,0.0230121910572052
+Sadness,25,66,L15.H2,Same here. It's very hard. I really feel for you.,8,8, hard,0.018790166825056076
+Sadness,25,66,L15.H2,Same here. It's very hard. I really feel for you.,9,11, really,0.01833234913647175
+Sadness,25,66,L15.H2,Same here. It's very hard. I really feel for you.,10,3,.,0.01825793832540512
+Anger,23,11903,L19.H5,"Dude, wtf is wrong with you?",1,0,<bos>,0.37731343507766724
+Anger,23,11903,L19.H5,"Dude, wtf is wrong with you?",2,8,?,0.12868408858776093
+Anger,23,11903,L19.H5,"Dude, wtf is wrong with you?",3,1,Dude,0.12364473193883896
+Anger,23,11903,L19.H5,"Dude, wtf is wrong with you?",4,7, you,0.09781631827354431
+Anger,23,11903,L19.H5,"Dude, wtf is wrong with you?",5,3, wtf,0.09631913155317307
+Anger,23,11903,L19.H5,"Dude, wtf is wrong with you?",6,2,",",0.07751259952783585
+Anger,23,11903,L19.H5,"Dude, wtf is wrong with you?",7,6, with,0.03690848872065544
+Anger,23,11903,L19.H5,"Dude, wtf is wrong with you?",8,4, is,0.03143073245882988
+Anger,23,11903,L19.H5,"Dude, wtf is wrong with you?",9,5, wrong,0.030370449647307396
+Anger,23,11903,L15.H2,"Dude, wtf is wrong with you?",1,7, you,0.33943066000938416
+Anger,23,11903,L15.H2,"Dude, wtf is wrong with you?",2,0,<bos>,0.19668786227703094
+Anger,23,11903,L15.H2,"Dude, wtf is wrong with you?",3,5, wrong,0.1531236320734024
+Anger,23,11903,L15.H2,"Dude, wtf is wrong with you?",4,3, wtf,0.11601720750331879
+Anger,23,11903,L15.H2,"Dude, wtf is wrong with you?",5,8,?,0.04921804368495941
+Anger,23,11903,L15.H2,"Dude, wtf is wrong with you?",6,4, is,0.03890540450811386
+Anger,23,11903,L15.H2,"Dude, wtf is wrong with you?",7,6, with,0.038036495447158813
+Anger,23,11903,L15.H2,"Dude, wtf is wrong with you?",8,2,",",0.035625752061605453
+Anger,23,11903,L15.H2,"Dude, wtf is wrong with you?",9,1,Dude,0.03295488655567169
+Anger,23,11903,L19.H4,"Dude, wtf is wrong with you?",1,0,<bos>,0.5877314209938049
+Anger,23,11903,L19.H4,"Dude, wtf is wrong with you?",2,8,?,0.3332712948322296
+Anger,23,11903,L19.H4,"Dude, wtf is wrong with you?",3,2,",",0.02345285750925541
+Anger,23,11903,L19.H4,"Dude, wtf is wrong with you?",4,7, you,0.016562530770897865
+Anger,23,11903,L19.H4,"Dude, wtf is wrong with you?",5,1,Dude,0.016311274841427803
+Anger,23,11903,L19.H4,"Dude, wtf is wrong with you?",6,3, wtf,0.011350003071129322
+Anger,23,11903,L19.H4,"Dude, wtf is wrong with you?",7,6, with,0.006228310521692038
+Anger,23,11903,L19.H4,"Dude, wtf is wrong with you?",8,4, is,0.0039869206957519054
+Anger,23,11903,L19.H4,"Dude, wtf is wrong with you?",9,5, wrong,0.0011054431088268757
+Fear,25,3410,L22.H1,That's nightmare fuel right there,1,0,<bos>,0.43931278586387634
+Fear,25,3410,L22.H1,That's nightmare fuel right there,2,7, there,0.2537405788898468
+Fear,25,3410,L22.H1,That's nightmare fuel right there,3,5, fuel,0.19050198793411255
+Fear,25,3410,L22.H1,That's nightmare fuel right there,4,4, nightmare,0.06713531166315079
+Fear,25,3410,L22.H1,That's nightmare fuel right there,5,6, right,0.03559694439172745
+Fear,25,3410,L22.H1,That's nightmare fuel right there,6,1,That,0.00711952755227685
+Fear,25,3410,L22.H1,That's nightmare fuel right there,7,3,s,0.0034283690620213747
+Fear,25,3410,L22.H1,That's nightmare fuel right there,8,2,',0.0031644937116652727
+Fear,25,3410,L22.H6,That's nightmare fuel right there,1,0,<bos>,0.5731996297836304
+Fear,25,3410,L22.H6,That's nightmare fuel right there,2,7, there,0.18685656785964966
+Fear,25,3410,L22.H6,That's nightmare fuel right there,3,6, right,0.16080936789512634
+Fear,25,3410,L22.H6,That's nightmare fuel right there,4,4, nightmare,0.02129555679857731
+Fear,25,3410,L22.H6,That's nightmare fuel right there,5,1,That,0.01728934608399868
+Fear,25,3410,L22.H6,That's nightmare fuel right there,6,5, fuel,0.016363931819796562
+Fear,25,3410,L22.H6,That's nightmare fuel right there,7,3,s,0.013506505638360977
+Fear,25,3410,L22.H6,That's nightmare fuel right there,8,2,',0.010679143480956554
+Fear,25,3410,L16.H7,That's nightmare fuel right there,1,0,<bos>,0.8023830056190491
+Fear,25,3410,L16.H7,That's nightmare fuel right there,2,5, fuel,0.0682855024933815
+Fear,25,3410,L16.H7,That's nightmare fuel right there,3,7, there,0.03428279608488083
+Fear,25,3410,L16.H7,That's nightmare fuel right there,4,4, nightmare,0.034207262098789215
+Fear,25,3410,L16.H7,That's nightmare fuel right there,5,1,That,0.033280156552791595
+Fear,25,3410,L16.H7,That's nightmare fuel right there,6,6, right,0.01218859851360321
+Fear,25,3410,L16.H7,That's nightmare fuel right there,7,3,s,0.012144762091338634
+Fear,25,3410,L16.H7,That's nightmare fuel right there,8,2,',0.0032279309816658497
+Disgust,24,10476,L15.Attn,This is repulsive what the fuck is wrong with places like this.,1,0,<bos>,0.47941845655441284
+Disgust,24,10476,L15.Attn,This is repulsive what the fuck is wrong with places like this.,2,13,.,0.1777283251285553
+Disgust,24,10476,L15.Attn,This is repulsive what the fuck is wrong with places like this.,3,12, this,0.10057529807090759
+Disgust,24,10476,L15.Attn,This is repulsive what the fuck is wrong with places like this.,4,1,This,0.054733436554670334
+Disgust,24,10476,L15.Attn,This is repulsive what the fuck is wrong with places like this.,5,6, fuck,0.041830532252788544
+Disgust,24,10476,L15.Attn,This is repulsive what the fuck is wrong with places like this.,6,3, repulsive,0.028079338371753693
+Disgust,24,10476,L15.Attn,This is repulsive what the fuck is wrong with places like this.,7,10, places,0.026942864060401917
+Disgust,24,10476,L15.Attn,This is repulsive what the fuck is wrong with places like this.,8,8, wrong,0.020681804046034813
+Disgust,24,10476,L15.Attn,This is repulsive what the fuck is wrong with places like this.,9,11, like,0.019001267850399017
+Disgust,24,10476,L15.Attn,This is repulsive what the fuck is wrong with places like this.,10,4, what,0.015654807910323143
+Disgust,24,10476,L19.H5,This is repulsive what the fuck is wrong with places like this.,1,0,<bos>,0.3454166054725647
+Disgust,24,10476,L19.H5,This is repulsive what the fuck is wrong with places like this.,2,13,.,0.16672775149345398
+Disgust,24,10476,L19.H5,This is repulsive what the fuck is wrong with places like this.,3,6, fuck,0.11004467308521271
+Disgust,24,10476,L19.H5,This is repulsive what the fuck is wrong with places like this.,4,12, this,0.09939278662204742
+Disgust,24,10476,L19.H5,This is repulsive what the fuck is wrong with places like this.,5,10, places,0.06670981645584106
+Disgust,24,10476,L19.H5,This is repulsive what the fuck is wrong with places like this.,6,3, repulsive,0.06455299258232117
+Disgust,24,10476,L19.H5,This is repulsive what the fuck is wrong with places like this.,7,1,This,0.030575694516301155
+Disgust,24,10476,L19.H5,This is repulsive what the fuck is wrong with places like this.,8,11, like,0.02743760123848915
+Disgust,24,10476,L19.H5,This is repulsive what the fuck is wrong with places like this.,9,7, is,0.0222149845212698
+Disgust,24,10476,L19.H5,This is repulsive what the fuck is wrong with places like this.,10,4, what,0.020393751561641693
+Disgust,24,10476,L18.Attn,This is repulsive what the fuck is wrong with places like this.,1,0,<bos>,0.595841109752655
+Disgust,24,10476,L18.Attn,This is repulsive what the fuck is wrong with places like this.,2,13,.,0.1246790736913681
+Disgust,24,10476,L18.Attn,This is repulsive what the fuck is wrong with places like this.,3,12, this,0.08742345869541168
+Disgust,24,10476,L18.Attn,This is repulsive what the fuck is wrong with places like this.,4,10, places,0.03224748373031616
+Disgust,24,10476,L18.Attn,This is repulsive what the fuck is wrong with places like this.,5,3, repulsive,0.026886720210313797
+Disgust,24,10476,L18.Attn,This is repulsive what the fuck is wrong with places like this.,6,1,This,0.026576828211545944
+Disgust,24,10476,L18.Attn,This is repulsive what the fuck is wrong with places like this.,7,6, fuck,0.022092022001743317
+Disgust,24,10476,L18.Attn,This is repulsive what the fuck is wrong with places like this.,8,9, with,0.015697475522756577
+Disgust,24,10476,L18.Attn,This is repulsive what the fuck is wrong with places like this.,9,11, like,0.01568872109055519
+Disgust,24,10476,L18.Attn,This is repulsive what the fuck is wrong with places like this.,10,8, wrong,0.01556265726685524

@@ -1,0 +1,501 @@
+emotion,feature_id,rank,token,logit,direction
+Joy,13068,1, :),1.5309536457061768,promoted
+Joy,13068,2, :],1.31923508644104,promoted
+Joy,13068,3, ^_^,1.2985010147094727,promoted
+Joy,13068,4, =),1.2933437824249268,promoted
+Joy,13068,5, :)),1.276411771774292,promoted
+Joy,13068,6, ^^,1.2358171939849854,promoted
+Joy,13068,7, ;),1.1860764026641846,promoted
+Joy,13068,8, :>,1.1616828441619873,promoted
+Joy,13068,9, ☺️,1.132551908493042,promoted
+Joy,13068,10, 🙂,1.1043462753295898,promoted
+Joy,13068,11, :-),1.0866641998291016,promoted
+Joy,13068,12, 😊,1.0825978517532349,promoted
+Joy,13068,13, ♥,1.071036458015442,promoted
+Joy,13068,14, ❤,1.0599844455718994,promoted
+Joy,13068,15, :'),1.0548721551895142,promoted
+Joy,13068,16, ❤️,1.04121732711792,promoted
+Joy,13068,17, ♡,1.0335791110992432,promoted
+Joy,13068,18, 💕,1.026881217956543,promoted
+Joy,13068,19, 💖,1.0238633155822754,promoted
+Joy,13068,20, 💜,1.0082550048828125,promoted
+Joy,13068,21, 😘,1.0052512884140015,promoted
+Joy,13068,22, 🥰,1.0016140937805176,promoted
+Joy,13068,23, 😁,1.0013450384140015,promoted
+Joy,13068,24, :,0.9886094331741333,promoted
+Joy,13068,25, xD,0.9733701944351196,promoted
+Joy,13068,26, ☺,0.9665958881378174,promoted
+Joy,13068,27, 💛,0.9581029415130615,promoted
+Joy,13068,28, 💗,0.9545414447784424,promoted
+Joy,13068,29, 😄,0.9526771903038025,promoted
+Joy,13068,30, ❤️❤️,0.941190242767334,promoted
+Joy,13068,31, hehe,0.9366234540939331,promoted
+Joy,13068,32, ♥️,0.9364763498306274,promoted
+Joy,13068,33, 😀,0.9296159744262695,promoted
+Joy,13068,34, 💙,0.928864598274231,promoted
+Joy,13068,35, 😌,0.9269881844520569,promoted
+Joy,13068,36, xoxo,0.9248692989349365,promoted
+Joy,13068,37, 💚,0.9118403792381287,promoted
+Joy,13068,38, 🖤,0.9109569787979126,promoted
+Joy,13068,39, 🤗,0.8772282004356384,promoted
+Joy,13068,40, 🤍,0.8706201910972595,promoted
+Joy,13068,41,OGND,0.8666940927505493,promoted
+Joy,13068,42, >:,0.844708263874054,promoted
+Joy,13068,43, ;-),0.8444924354553223,promoted
+Joy,13068,44, 😉,0.8420370817184448,promoted
+Joy,13068,45, 😃,0.8285039663314819,promoted
+Joy,13068,46, 😍,0.8033974170684814,promoted
+Joy,13068,47, 👍🏻,0.8032093644142151,promoted
+Joy,13068,48, haha,0.7900680303573608,promoted
+Joy,13068,49, ✌,0.7880772352218628,promoted
+Joy,13068,50, 👍,0.7769898176193237,promoted
+Joy,13068,1,Worse,-0.5850830078125,suppressed
+Joy,13068,2,ñores,-0.5641244649887085,suppressed
+Joy,13068,3, peggio,-0.5446959733963013,suppressed
+Joy,13068,4,UnknownFieldSet,-0.5337867736816406,suppressed
+Joy,13068,5,NOPQRST,-0.5202335715293884,suppressed
+Joy,13068,6, pior,-0.5130019783973694,suppressed
+Joy,13068,7,InstrumentedTest,-0.484444260597229,suppressed
+Joy,13068,8,voort,-0.47240930795669556,suppressed
+Joy,13068,9,RegistryLite,-0.47091639041900635,suppressed
+Joy,13068,10, peor,-0.4668733775615692,suppressed
+Joy,13068,11,canestro,-0.4666226804256439,suppressed
+Joy,13068,12,getDoctrine,-0.46154001355171204,suppressed
+Joy,13068,13,ModelSerializer,-0.4458106756210327,suppressed
+Joy,13068,14, lantaran,-0.424991637468338,suppressed
+Joy,13068,15, plastica,-0.4135061204433441,suppressed
+Joy,13068,16,bilang,-0.4128975570201874,suppressed
+Joy,13068,17,bootstrapcdn,-0.40843474864959717,suppressed
+Joy,13068,18, complained,-0.4071013629436493,suppressed
+Joy,13068,19,PropertyChanging,-0.4053939878940582,suppressed
+Joy,13068,20,forChild,-0.4036155343055725,suppressed
+Joy,13068,21,Solución,-0.4027222990989685,suppressed
+Joy,13068,22,DoubleQuotes,-0.3973923325538635,suppressed
+Joy,13068,23,IUrlHelper,-0.39616334438323975,suppressed
+Joy,13068,24,indak,-0.3956334590911865,suppressed
+Joy,13068,25,intel,-0.3935738205909729,suppressed
+Joy,13068,26, stava,-0.391287624835968,suppressed
+Joy,13068,27, bassa,-0.3888170123100281,suppressed
+Joy,13068,28,hdysval,-0.38682955503463745,suppressed
+Joy,13068,29,hartt,-0.3858935832977295,suppressed
+Joy,13068,30,Tikang,-0.38332489132881165,suppressed
+Joy,13068,31,urig,-0.38245895504951477,suppressed
+Joy,13068,32, phénom,-0.3824208974838257,suppressed
+Joy,13068,33, conséquences,-0.3817877769470215,suppressed
+Joy,13068,34, colpa,-0.38117295503616333,suppressed
+Joy,13068,35, nouve,-0.3810952305793762,suppressed
+Joy,13068,36,ChildScrollView,-0.37802547216415405,suppressed
+Joy,13068,37,vician,-0.3779008090496063,suppressed
+Joy,13068,38, bourgeo,-0.3757312595844269,suppressed
+Joy,13068,39,Contours,-0.3716336190700531,suppressed
+Joy,13068,40, Pristupljeno,-0.36837366223335266,suppressed
+Joy,13068,41, tolua,-0.36803537607192993,suppressed
+Joy,13068,42,shutterstock,-0.3675599992275238,suppressed
+Joy,13068,43,inheit,-0.36633217334747314,suppressed
+Joy,13068,44,quelize,-0.36574941873550415,suppressed
+Joy,13068,45,ONLY,-0.3617861866950989,suppressed
+Joy,13068,46, gena,-0.36167240142822266,suppressed
+Joy,13068,47,canActivate,-0.361585408449173,suppressed
+Joy,13068,48,styleType,-0.36143797636032104,suppressed
+Joy,13068,49,aggressive,-0.3589753806591034,suppressed
+Joy,13068,50, aapt,-0.3576508164405823,suppressed
+Sadness,66,1, sad,1.730703353881836,promoted
+Sadness,66,2, :(,1.7112653255462646,promoted
+Sadness,66,3, :-(,1.542475938796997,promoted
+Sadness,66,4, bummer,1.526012897491455,promoted
+Sadness,66,5, 😔,1.4844601154327393,promoted
+Sadness,66,6, :'(,1.466630220413208,promoted
+Sadness,66,7, 😢,1.4538294076919556,promoted
+Sadness,66,8, disappointing,1.4280505180358887,promoted
+Sadness,66,9, saddened,1.387807846069336,promoted
+Sadness,66,10,🙁,1.384192943572998,promoted
+Sadness,66,11, unfortunate,1.3375751972198486,promoted
+Sadness,66,12,☹,1.3251861333847046,promoted
+Sadness,66,13,😞,1.3145980834960938,promoted
+Sadness,66,14, sedih,1.3144338130950928,promoted
+Sadness,66,15, heartbroken,1.2854883670806885,promoted
+Sadness,66,16, heartbreaking,1.2786624431610107,promoted
+Sadness,66,17, triste,1.207432746887207,promoted
+Sadness,66,18, regret,1.2045351266860962,promoted
+Sadness,66,19, disheart,1.1977109909057617,promoted
+Sadness,66,20, lamented,1.1899983882904053,promoted
+Sadness,66,21, sucks,1.1823852062225342,promoted
+Sadness,66,22, ;(,1.1645041704177856,promoted
+Sadness,66,23,💔,1.1207163333892822,promoted
+Sadness,66,24, dejected,1.1191203594207764,promoted
+Sadness,66,25, Pity,1.116686463356018,promoted
+Sadness,66,26, tragic,1.0913735628128052,promoted
+Sadness,66,27,😥,1.0887818336486816,promoted
+Sadness,66,28, tristes,1.086614966392517,promoted
+Sadness,66,29,😿,1.0821212530136108,promoted
+Sadness,66,30, unfortunately,1.0800213813781738,promoted
+Sadness,66,31, sorrow,1.0788499116897583,promoted
+Sadness,66,32,Sigh,1.0772318840026855,promoted
+Sadness,66,33, dommage,1.0711095333099365,promoted
+Sadness,66,34, tristesse,1.0707266330718994,promoted
+Sadness,66,35, mourned,1.0643842220306396,promoted
+Sadness,66,36, alas,1.0633482933044434,promoted
+Sadness,66,37, bittersweet,1.0291779041290283,promoted
+Sadness,66,38, shame,1.0201919078826904,promoted
+Sadness,66,39, gutted,1.017496109008789,promoted
+Sadness,66,40, lamenta,1.014383316040039,promoted
+Sadness,66,41, infeliz,1.0128028392791748,promoted
+Sadness,66,42, unlucky,1.0124999284744263,promoted
+Sadness,66,43, tristeza,0.9983373880386353,promoted
+Sadness,66,44, 😭,0.9964771270751953,promoted
+Sadness,66,45, dissa,0.9948298931121826,promoted
+Sadness,66,46, frustrating,0.98908931016922,promoted
+Sadness,66,47,😦,0.9848657250404358,promoted
+Sadness,66,48, schade,0.9772859215736389,promoted
+Sadness,66,49, malheureux,0.9732961654663086,promoted
+Sadness,66,50, disappointments,0.9677616357803345,promoted
+Sadness,66,1, saites,-0.6413121819496155,suppressed
+Sadness,66,2,SuccessListener,-0.5518655776977539,suppressed
+Sadness,66,3,Données,-0.5238490104675293,suppressed
+Sadness,66,4,cemia,-0.49652761220932007,suppressed
+Sadness,66,5,Kanpo,-0.48751476407051086,suppressed
+Sadness,66,6,Eksterne,-0.47810864448547363,suppressed
+Sadness,66,7,verwijspagina,-0.4776584506034851,suppressed
+Sadness,66,8, isInitialized,-0.45433300733566284,suppressed
+Sadness,66,9, chi̍t,-0.4540189206600189,suppressed
+Sadness,66,10,Personendaten,-0.44841134548187256,suppressed
+Sadness,66,11,LIBRA,-0.44581371545791626,suppressed
+Sadness,66,12,QMetaType,-0.4440230131149292,suppressed
+Sadness,66,13,sizeCache,-0.4427749514579773,suppressed
+Sadness,66,14, ungef,-0.44221556186676025,suppressed
+Sadness,66,15, besoin,-0.43633806705474854,suppressed
+Sadness,66,16, Mittelpunkt,-0.43570566177368164,suppressed
+Sadness,66,17,bellum,-0.4299647808074951,suppressed
+Sadness,66,18,dafx,-0.42721450328826904,suppressed
+Sadness,66,19,Enllaces,-0.42650240659713745,suppressed
+Sadness,66,20,klaim,-0.4253932535648346,suppressed
+Sadness,66,21,laund,-0.4247618317604065,suppressed
+Sadness,66,22, EMERG,-0.4240143597126007,suppressed
+Sadness,66,23, disambiguazione,-0.42263638973236084,suppressed
+Sadness,66,24,featureID,-0.4186060130596161,suppressed
+Sadness,66,25, febri,-0.41563013195991516,suppressed
+Sadness,66,26,Penjelasan,-0.41561460494995117,suppressed
+Sadness,66,27,Crossref,-0.40976446866989136,suppressed
+Sadness,66,28,luence,-0.40920621156692505,suppressed
+Sadness,66,29, EconPapers,-0.40885865688323975,suppressed
+Sadness,66,30,llo,-0.4081312417984009,suppressed
+Sadness,66,31,LSD,-0.4046330451965332,suppressed
+Sadness,66,32,ofluorescence,-0.4044762849807739,suppressed
+Sadness,66,33,DockStyle,-0.40385258197784424,suppressed
+Sadness,66,34,bedarf,-0.40358829498291016,suppressed
+Sadness,66,35,VERBOSE,-0.40063583850860596,suppressed
+Sadness,66,36, delirium,-0.3984783887863159,suppressed
+Sadness,66,37,misu,-0.3961232304573059,suppressed
+Sadness,66,38,prus,-0.39437243342399597,suppressed
+Sadness,66,39,atiker,-0.393277645111084,suppressed
+Sadness,66,40, Vordergrund,-0.3932323455810547,suppressed
+Sadness,66,41, mencu,-0.3930545151233673,suppressed
+Sadness,66,42,pode,-0.3902314007282257,suppressed
+Sadness,66,43,Potencia,-0.38978976011276245,suppressed
+Sadness,66,44,itzar,-0.38859230279922485,suppressed
+Sadness,66,45, Beschäf,-0.3882814347743988,suppressed
+Sadness,66,46,rungsseite,-0.3880361318588257,suppressed
+Sadness,66,47, acquittal,-0.38798829913139343,suppressed
+Sadness,66,48,refour,-0.38771873712539673,suppressed
+Sadness,66,49, kelebihan,-0.3858063519001007,suppressed
+Sadness,66,50,Statistiche,-0.3853423595428467,suppressed
+Anger,11903,1, Stop,1.286372423171997,promoted
+Anger,11903,2, why,1.178617000579834,promoted
+Anger,11903,3, wtf,0.9563804268836975,promoted
+Anger,11903,4, Seriously,0.9074700474739075,promoted
+Anger,11903,5, autorytatywna,0.8690136671066284,promoted
+Anger,11903,6, quit,0.8557776212692261,promoted
+Anger,11903,7, Come,0.8289788961410522,promoted
+Anger,11903,8,FFS,0.8107993006706238,promoted
+Anger,11903,9, how,0.8103267550468445,promoted
+Anger,11903,10, please,0.8013352155685425,promoted
+Anger,11903,11, pourquoi,0.785026490688324,promoted
+Anger,11903,12, Give,0.7774183750152588,promoted
+Anger,11903,13, smh,0.7746691703796387,promoted
+Anger,11903,14, Grow,0.7658020257949829,promoted
+Anger,11903,15, cease,0.7517259120941162,promoted
+Anger,11903,16, Get,0.7503287196159363,promoted
+Anger,11903,17, lighten,0.7445926070213318,promoted
+Anger,11903,18, cesse,0.7444190979003906,promoted
+Anger,11903,19, Shame,0.7358986735343933,promoted
+Anger,11903,20, dejen,0.7171010375022888,promoted
+Anger,11903,21, pathetic,0.7052003741264343,promoted
+Anger,11903,22, berhenti,0.6981209516525269,promoted
+Anger,11903,23, ridiculous,0.6966922879219055,promoted
+Anger,11903,24, arrêter,0.6954554915428162,promoted
+Anger,11903,25, Screw,0.6919801235198975,promoted
+Anger,11903,26, bitte,0.6889643669128418,promoted
+Anger,11903,27, Leave,0.685376763343811,promoted
+Anger,11903,28, Wake,0.685234010219574,promoted
+Anger,11903,29,arrête,0.6849734783172607,promoted
+Anger,11903,30, waarom,0.681425154209137,promoted
+Anger,11903,31,Bullshit,0.6775339841842651,promoted
+Anger,11903,32, Shut,0.676709771156311,promoted
+Anger,11903,33, absurdity,0.6692636609077454,promoted
+Anger,11903,34, stopp,0.6640385389328003,promoted
+Anger,11903,35, varför,0.6602582931518555,promoted
+Anger,11903,36, FIX,0.6601150631904602,promoted
+Anger,11903,37,mobileqq,0.6598537564277649,promoted
+Anger,11903,38, idiots,0.6586594581604004,promoted
+Anger,11903,39, 🙄,0.6583979725837708,promoted
+Anger,11903,40, warum,0.6574930548667908,promoted
+Anger,11903,41, Fuck,0.6568092107772827,promoted
+Anger,11903,42,🖕,0.6556731462478638,promoted
+Anger,11903,43, Nobody,0.6551434397697449,promoted
+Anger,11903,44,onsense,0.6519090533256531,promoted
+Anger,11903,45, pitié,0.6493508219718933,promoted
+Anger,11903,46, Tell,0.6488645076751709,promoted
+Anger,11903,47,Prove,0.6483711004257202,promoted
+Anger,11903,48, Roskov,0.6483060121536255,promoted
+Anger,11903,49, laughable,0.6454504728317261,promoted
+Anger,11903,50, LMAO,0.644978404045105,promoted
+Anger,11903,1,djangoproject,-0.6258207559585571,suppressed
+Anger,11903,2,colgroup,-0.5038791298866272,suppressed
+Anger,11903,3,tagHelper,-0.49025845527648926,suppressed
+Anger,11903,4,wpdb,-0.48676589131355286,suppressed
+Anger,11903,5, intptr,-0.4562840461730957,suppressed
+Anger,11903,6,merkungen,-0.4452660083770752,suppressed
+Anger,11903,7,arakhand,-0.4331182837486267,suppressed
+Anger,11903,8, relation,-0.42798709869384766,suppressed
+Anger,11903,9,devtools,-0.41941019892692566,suppressed
+Anger,11903,10,setAccessible,-0.41857245564460754,suppressed
+Anger,11903,11, Zwar,-0.4133185148239136,suppressed
+Anger,11903,12,openSession,-0.4106423854827881,suppressed
+Anger,11903,13,tedy,-0.4104268550872803,suppressed
+Anger,11903,14, Baillargeon,-0.4098772406578064,suppressed
+Anger,11903,15, sopra,-0.40660980343818665,suppressed
+Anger,11903,16,glMatrixMode,-0.39976686239242554,suppressed
+Anger,11903,17,wang,-0.39551496505737305,suppressed
+Anger,11903,18, BrowserModule,-0.3943448066711426,suppressed
+Anger,11903,19, riman,-0.39284747838974,suppressed
+Anger,11903,20,bollah,-0.3918963074684143,suppressed
+Anger,11903,21, factors,-0.3899917006492615,suppressed
+Anger,11903,22, closely,-0.38980919122695923,suppressed
+Anger,11903,23,PackageManager,-0.3897041082382202,suppressed
+Anger,11903,24,antica,-0.3873889744281769,suppressed
+Anger,11903,25,egli,-0.38636723160743713,suppressed
+Anger,11903,26, valign,-0.38474762439727783,suppressed
+Anger,11903,27,pumpe,-0.3820883631706238,suppressed
+Anger,11903,28, late,-0.381855309009552,suppressed
+Anger,11903,29, Arkivert,-0.38127297163009644,suppressed
+Anger,11903,30,Trayectoria,-0.37943702936172485,suppressed
+Anger,11903,31,racuda,-0.37627488374710083,suppressed
+Anger,11903,32, Catto,-0.37620073556900024,suppressed
+Anger,11903,33,ungkinan,-0.37590160965919495,suppressed
+Anger,11903,34, ImageIcon,-0.37553870677948,suppressed
+Anger,11903,35,NOWLEDG,-0.3746801018714905,suppressed
+Anger,11903,36,gni,-0.3746364116668701,suppressed
+Anger,11903,37,kaitan,-0.3736506998538971,suppressed
+Anger,11903,38, interestingly,-0.37317681312561035,suppressed
+Anger,11903,39,gpl,-0.37192681431770325,suppressed
+Anger,11903,40,slidesToShow,-0.37064746022224426,suppressed
+Anger,11903,41, promet,-0.37062567472457886,suppressed
+Anger,11903,42, établi,-0.36735522747039795,suppressed
+Anger,11903,43, onItemClick,-0.36630338430404663,suppressed
+Anger,11903,44, converti,-0.3659895658493042,suppressed
+Anger,11903,45, löyty,-0.36362165212631226,suppressed
+Anger,11903,46, unexpectedly,-0.36216649413108826,suppressed
+Anger,11903,47, importantly,-0.36140626668930054,suppressed
+Anger,11903,48,ujeme,-0.36097627878189087,suppressed
+Anger,11903,49,otras,-0.36000967025756836,suppressed
+Anger,11903,50, initially,-0.3585013449192047,suppressed
+Fear,3410,1, fear,2.216827154159546,promoted
+Fear,3410,2, scared,1.9108695983886719,promoted
+Fear,3410,3, terrified,1.7840218544006348,promoted
+Fear,3410,4, afraid,1.781365156173706,promoted
+Fear,3410,5, frightened,1.7416675090789795,promoted
+Fear,3410,6, anxiety,1.6219654083251953,promoted
+Fear,3410,7, panic,1.6211521625518799,promoted
+Fear,3410,8, peur,1.610144853591919,promoted
+Fear,3410,9, worry,1.5886132717132568,promoted
+Fear,3410,10, scare,1.5755640268325806,promoted
+Fear,3410,11, worried,1.5721626281738281,promoted
+Fear,3410,12, miedo,1.5471503734588623,promoted
+Fear,3410,13, fright,1.5327237844467163,promoted
+Fear,3410,14, nervousness,1.5093414783477783,promoted
+Fear,3410,15, anxieties,1.4788997173309326,promoted
+Fear,3410,16, phobia,1.455850601196289,promoted
+Fear,3410,17, scary,1.4445525407791138,promoted
+Fear,3410,18, nervous,1.431268334388733,promoted
+Fear,3410,19, paura,1.4050908088684082,promoted
+Fear,3410,20, apprehensive,1.4043357372283936,promoted
+Fear,3410,21, panicked,1.377180576324463,promoted
+Fear,3410,22, apprehension,1.3731167316436768,promoted
+Fear,3410,23, temor,1.3593108654022217,promoted
+Fear,3410,24, terror,1.3406736850738525,promoted
+Fear,3410,25, terrifying,1.3142517805099487,promoted
+Fear,3410,26, paranoia,1.303279995918274,promoted
+Fear,3410,27, medo,1.2973642349243164,promoted
+Fear,3410,28, petrified,1.2919952869415283,promoted
+Fear,3410,29, anxious,1.29022216796875,promoted
+Fear,3410,30, nerves,1.2893682718276978,promoted
+Fear,3410,31, apprehensions,1.2820940017700195,promoted
+Fear,3410,32, takut,1.2772743701934814,promoted
+Fear,3410,33, freaked,1.2761731147766113,promoted
+Fear,3410,34,fraid,1.2698514461517334,promoted
+Fear,3410,35, jit,1.2281219959259033,promoted
+Fear,3410,36, crainte,1.1985883712768555,promoted
+Fear,3410,37, Angst,1.189814805984497,promoted
+Fear,3410,38, trembling,1.1854839324951172,promoted
+Fear,3410,39, asust,1.1775548458099365,promoted
+Fear,3410,40, dread,1.177175760269165,promoted
+Fear,3410,41, paranoid,1.1696323156356812,promoted
+Fear,3410,42, Wor,1.1510343551635742,promoted
+Fear,3410,43, effray,1.1506356000900269,promoted
+Fear,3410,44, concern,1.1394727230072021,promoted
+Fear,3410,45, terri,1.1342816352844238,promoted
+Fear,3410,46, tremble,1.1112689971923828,promoted
+Fear,3410,47, Furcht,1.1089866161346436,promoted
+Fear,3410,48, apprehen,1.1028215885162354,promoted
+Fear,3410,49, fret,1.093923568725586,promoted
+Fear,3410,50, panik,1.0729902982711792,promoted
+Fear,3410,1, savon,-0.5260669589042664,suppressed
+Fear,3410,2,CloseOperation,-0.49488580226898193,suppressed
+Fear,3410,3, CREDITS,-0.4885733127593994,suppressed
+Fear,3410,4,mergeFrom,-0.4855852723121643,suppressed
+Fear,3410,5,Titus,-0.48039424419403076,suppressed
+Fear,3410,6,NewLabel,-0.4781274199485779,suppressed
+Fear,3410,7, ingrat,-0.4728781580924988,suppressed
+Fear,3410,8,INCREMENT,-0.4698368310928345,suppressed
+Fear,3410,9,Aspiration,-0.45902103185653687,suppressed
+Fear,3410,10, gosto,-0.4584769606590271,suppressed
+Fear,3410,11, AssemblyProduct,-0.45836490392684937,suppressed
+Fear,3410,12, amitié,-0.4583248496055603,suppressed
+Fear,3410,13,WireFormatLite,-0.4582586884498596,suppressed
+Fear,3410,14, StringTokenizer,-0.45775166153907776,suppressed
+Fear,3410,15, BufferedReader,-0.4517516791820526,suppressed
+Fear,3410,16,vericks,-0.44927024841308594,suppressed
+Fear,3410,17,verwijspagina,-0.44554829597473145,suppressed
+Fear,3410,18,clusions,-0.445120632648468,suppressed
+Fear,3410,19, AssemblyTitle,-0.441403865814209,suppressed
+Fear,3410,20, Snell,-0.44051894545555115,suppressed
+Fear,3410,21, traccia,-0.4376080632209778,suppressed
+Fear,3410,22, cadeaux,-0.43527671694755554,suppressed
+Fear,3410,23, jammer,-0.43521445989608765,suppressed
+Fear,3410,24,TypedDataSet,-0.43227776885032654,suppressed
+Fear,3410,25,setof,-0.4320003390312195,suppressed
+Fear,3410,26,rasi,-0.4317057430744171,suppressed
+Fear,3410,27,entz,-0.43057194352149963,suppressed
+Fear,3410,28, htmlFor,-0.42965513467788696,suppressed
+Fear,3410,29,zug,-0.429549902677536,suppressed
+Fear,3410,30,lag,-0.4294999837875366,suppressed
+Fear,3410,31,Geme,-0.42927730083465576,suppressed
+Fear,3410,32, Elektron,-0.42892012000083923,suppressed
+Fear,3410,33, Discre,-0.4281638264656067,suppressed
+Fear,3410,34, faim,-0.42572712898254395,suppressed
+Fear,3410,35, Burnet,-0.4255690276622772,suppressed
+Fear,3410,36, remol,-0.4255638122558594,suppressed
+Fear,3410,37,ift,-0.42527806758880615,suppressed
+Fear,3410,38, akad,-0.4246938228607178,suppressed
+Fear,3410,39, IndexPath,-0.42148303985595703,suppressed
+Fear,3410,40, Ded,-0.42005598545074463,suppressed
+Fear,3410,41,glMatrixMode,-0.4182366728782654,suppressed
+Fear,3410,42, jadx,-0.4182288646697998,suppressed
+Fear,3410,43,conazole,-0.41482415795326233,suppressed
+Fear,3410,44,ostoma,-0.4143393635749817,suppressed
+Fear,3410,45,TintMode,-0.414083868265152,suppressed
+Fear,3410,46,ventud,-0.4118848145008087,suppressed
+Fear,3410,47, faveur,-0.41130489110946655,suppressed
+Fear,3410,48,DataPropertyName,-0.4090114235877991,suppressed
+Fear,3410,49, IActionResult,-0.40661728382110596,suppressed
+Fear,3410,50,imental,-0.40649890899658203,suppressed
+Disgust,10476,1, why,0.8349759578704834,promoted
+Disgust,10476,2, stop,0.7822178602218628,promoted
+Disgust,10476,3,rungsseite,0.719308078289032,promoted
+Disgust,10476,4, people,0.7043402194976807,promoted
+Disgust,10476,5, Shame,0.700593113899231,promoted
+Disgust,10476,6, smh,0.6927788257598877,promoted
+Disgust,10476,7, lets,0.6701712608337402,promoted
+Disgust,10476,8, please,0.6682761311531067,promoted
+Disgust,10476,9,Sad,0.6667127013206482,promoted
+Disgust,10476,10, thank,0.6528753042221069,promoted
+Disgust,10476,11, Blame,0.6442563533782959,promoted
+Disgust,10476,12, Seems,0.6430689096450806,promoted
+Disgust,10476,13, Nobody,0.6352534294128418,promoted
+Disgust,10476,14, pathetic,0.634016752243042,promoted
+Disgust,10476,15,Kudos,0.6329944729804993,promoted
+Disgust,10476,16, idiots,0.6321411728858948,promoted
+Disgust,10476,17, BTW,0.630394458770752,promoted
+Disgust,10476,18, everyone,0.6172115206718445,promoted
+Disgust,10476,19, Disagree,0.6134686470031738,promoted
+Disgust,10476,20, wtf,0.6130848526954651,promoted
+Disgust,10476,21, 🙄,0.6125704646110535,promoted
+Disgust,10476,22,bravo,0.6116334199905396,promoted
+Disgust,10476,23, ppl,0.6116193532943726,promoted
+Disgust,10476,24, I,0.6114369034767151,promoted
+Disgust,10476,25,WAKE,0.6104862689971924,promoted
+Disgust,10476,26, glad,0.6002985239028931,promoted
+Disgust,10476,27, LMAO,0.5983469486236572,promoted
+Disgust,10476,28, sorry,0.595150351524353,promoted
+Disgust,10476,29,Reminds,0.5943020582199097,promoted
+Disgust,10476,30, how,0.5933468341827393,promoted
+Disgust,10476,31,contentLoaded,0.5915929675102234,promoted
+Disgust,10476,32, IMO,0.5858132839202881,promoted
+Disgust,10476,33, 🤦,0.5846999883651733,promoted
+Disgust,10476,34, Downvote,0.5823084115982056,promoted
+Disgust,10476,35, LOL,0.577360987663269,promoted
+Disgust,10476,36, what,0.5727377533912659,promoted
+Disgust,10476,37, Fuck,0.5674598217010498,promoted
+Disgust,10476,38, morons,0.566323459148407,promoted
+Disgust,10476,39,Funny,0.5658653974533081,promoted
+Disgust,10476,40, lighten,0.5572803616523743,promoted
+Disgust,10476,41,Agreed,0.5509033203125,promoted
+Disgust,10476,42, anyone,0.5476804971694946,promoted
+Disgust,10476,43,FTFY,0.5476206541061401,promoted
+Disgust,10476,44, Hopefully,0.547549843788147,promoted
+Disgust,10476,45,👏👏,0.5468621850013733,promoted
+Disgust,10476,46, folks,0.5456526279449463,promoted
+Disgust,10476,47, Educate,0.5444544553756714,promoted
+Disgust,10476,48, Maybe,0.5441685318946838,promoted
+Disgust,10476,49,Amen,0.5422731637954712,promoted
+Disgust,10476,50, deberían,0.540035605430603,promoted
+Disgust,10476,1,Adaptor,-0.5400040745735168,suppressed
+Disgust,10476,2, ddelweddau,-0.5299056768417358,suppressed
+Disgust,10476,3,ondheim,-0.4952518939971924,suppressed
+Disgust,10476,4, virtuel,-0.49392688274383545,suppressed
+Disgust,10476,5,racuda,-0.47665345668792725,suppressed
+Disgust,10476,6, DRAWINGS,-0.47072023153305054,suppressed
+Disgust,10476,7,tagHelper,-0.46747857332229614,suppressed
+Disgust,10476,8,SourceChecksum,-0.4654831290245056,suppressed
+Disgust,10476,9,arakhand,-0.4648554027080536,suppressed
+Disgust,10476,10, Zwar,-0.44937974214553833,suppressed
+Disgust,10476,11, dekat,-0.4456116855144501,suppressed
+Disgust,10476,12, acquainted,-0.44146350026130676,suppressed
+Disgust,10476,13,Altre,-0.4411514103412628,suppressed
+Disgust,10476,14,gorod,-0.43826454877853394,suppressed
+Disgust,10476,15,liminaries,-0.4326581060886383,suppressed
+Disgust,10476,16,vastatin,-0.43120282888412476,suppressed
+Disgust,10476,17, débuts,-0.4311533570289612,suppressed
+Disgust,10476,18,ForRow,-0.4303170442581177,suppressed
+Disgust,10476,19,ADUATE,-0.4290459156036377,suppressed
+Disgust,10476,20,occas,-0.4284859597682953,suppressed
+Disgust,10476,21, riman,-0.4234732389450073,suppressed
+Disgust,10476,22,ciutto,-0.4233344793319702,suppressed
+Disgust,10476,23,thane,-0.4223352074623108,suppressed
+Disgust,10476,24, naira,-0.4219513237476349,suppressed
+Disgust,10476,25,migiano,-0.4217226505279541,suppressed
+Disgust,10476,26,vartis,-0.4209238588809967,suppressed
+Disgust,10476,27,gni,-0.42008236050605774,suppressed
+Disgust,10476,28,jsdelivr,-0.4199877977371216,suppressed
+Disgust,10476,29,loten,-0.41888538002967834,suppressed
+Disgust,10476,30,lampe,-0.4187169373035431,suppressed
+Disgust,10476,31,inemann,-0.4183887839317322,suppressed
+Disgust,10476,32,openSession,-0.41818782687187195,suppressed
+Disgust,10476,33,Preliminary,-0.4167860746383667,suppressed
+Disgust,10476,34,colgroup,-0.4162152111530304,suppressed
+Disgust,10476,35,idable,-0.4160981774330139,suppressed
+Disgust,10476,36,ussian,-0.4142649471759796,suppressed
+Disgust,10476,37, Arkivert,-0.4140886068344116,suppressed
+Disgust,10476,38, converti,-0.4086485505104065,suppressed
+Disgust,10476,39, sopra,-0.40707117319107056,suppressed
+Disgust,10476,40,argout,-0.40694311261177063,suppressed
+Disgust,10476,41, enrolment,-0.4066389799118042,suppressed
+Disgust,10476,42,lyser,-0.40550071001052856,suppressed
+Disgust,10476,43,gevens,-0.40534698963165283,suppressed
+Disgust,10476,44,XmlAccessType,-0.4044759273529053,suppressed
+Disgust,10476,45, Succes,-0.4042593836784363,suppressed
+Disgust,10476,46, späteren,-0.40226972103118896,suppressed
+Disgust,10476,47,vily,-0.40138787031173706,suppressed
+Disgust,10476,48, sixteenth,-0.4013298749923706,suppressed
+Disgust,10476,49,occan,-0.40085089206695557,suppressed
+Disgust,10476,50, físico,-0.40038877725601196,suppressed

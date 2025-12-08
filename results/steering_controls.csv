@@ -1,0 +1,65 @@
+experiment_type,source_emotion,target_emotion,layer,feature_id,prompt,alpha,baseline_log_prob,steered_log_prob,delta_log_prob
+cross_emotion,Joy,Sadness,25,13068,"As a former [NAME], I apologize. That’s tough",4,-33.01147239208221,-32.974544101953505,0.036928290128706465
+cross_emotion,Joy,Sadness,25,13068,This is beautiful and heartbreaking :(,4,-23.168918289244175,-23.14654221832752,0.02237607091665339
+cross_emotion,Joy,Sadness,25,13068,"Tried it. Failed it. Got mental consequences, my m...",4,-28.2095689535141,-28.182749676704407,0.026819276809693093
+cross_emotion,Joy,Anger,25,13068,"You're the one who's out, biggy. Out of your mind!",4,-24.543952083587648,-24.565820980072022,-0.02186889648437429
+cross_emotion,Joy,Anger,25,13068,Classic sloth fuckboi,4,-27.414205503463744,-27.44105839729309,-0.026852893829346414
+cross_emotion,Joy,Anger,25,13068,Must be so frustrating having the wrong old man fa...,4,-25.855739736557005,-25.87915906906128,-0.023419332504275303
+cross_emotion,Joy,Fear,25,13068,"As a risk analyst, that's a terrible idea, Risk is...",4,-31.39885892868042,-31.403465270996094,-0.004606342315675249
+cross_emotion,Joy,Fear,25,13068,Top 10 nibbas satan's too afraid to torture.,4,-21.111821937561036,-21.121587371826173,-0.00976543426513743
+cross_emotion,Joy,Fear,25,13068,"It would probably be horrifying if we tried, when ...",4,-23.90058317184448,-23.90794653892517,-0.007363367080689187
+cross_emotion,Joy,Disgust,25,13068,Unhhh has not been funny for a while now. This is ...,4,-28.389305353164673,-28.381613159179686,0.007692193984986773
+cross_emotion,Joy,Disgust,25,13068,that's like a kel'thuzad/kael'thas wet dream right...,4,-26.49677538871765,-26.493723332881927,0.003052055835723877
+cross_emotion,Joy,Disgust,25,13068,"As bad as this sub was in the 1st quarter, our ann...",4,-27.809942293167115,-27.798051130771636,0.011891162395478716
+cross_emotion,Sadness,Joy,21,4801,Well good luck and have fun!,4,-26.499624490737915,-26.49068808555603,0.008936405181884766
+cross_emotion,Sadness,Joy,21,4801,Glad to see we are still around :).,4,-24.648698472976683,-24.630808782577514,0.01788969039916921
+cross_emotion,Sadness,Joy,21,4801,My blood pressure Edit: I'm just happy to be here.,4,-21.36541199684143,-21.334707856178284,0.030704140663146973
+cross_emotion,Sadness,Anger,21,4801,"You're the one who's out, biggy. Out of your mind!",4,-24.543952083587648,-24.438963651657104,0.10498843193054341
+cross_emotion,Sadness,Anger,21,4801,Classic sloth fuckboi,4,-27.414205503463744,-27.27898473739624,0.13522076606750488
+cross_emotion,Sadness,Anger,21,4801,Must be so frustrating having the wrong old man fa...,4,-25.855739736557005,-25.81253855228424,0.04320118427276398
+cross_emotion,Sadness,Fear,21,4801,"As a risk analyst, that's a terrible idea, Risk is...",4,-31.39885892868042,-31.400029802322386,-0.0011708736419677734
+cross_emotion,Sadness,Fear,21,4801,Top 10 nibbas satan's too afraid to torture.,4,-21.111821937561036,-21.122504043579102,-0.010682106018066406
+cross_emotion,Sadness,Fear,21,4801,"It would probably be horrifying if we tried, when ...",4,-23.90058317184448,-23.91645178794861,-0.01586861610412882
+cross_emotion,Sadness,Disgust,21,4801,Unhhh has not been funny for a while now. This is ...,4,-28.389305353164673,-28.4251951277256,-0.035889774560928345
+cross_emotion,Sadness,Disgust,21,4801,that's like a kel'thuzad/kael'thas wet dream right...,4,-26.49677538871765,-26.53880149126053,-0.0420261025428772
+cross_emotion,Sadness,Disgust,21,4801,"As bad as this sub was in the 1st quarter, our ann...",4,-27.809942293167115,-27.850578305125236,-0.04063601195812083
+cross_emotion,Anger,Joy,22,8535,Well good luck and have fun!,4,-26.499624490737915,-26.49432578086853,0.005298709869386187
+cross_emotion,Anger,Joy,22,8535,Glad to see we are still around :).,4,-24.648698472976683,-24.6428493976593,0.005849075317382102
+cross_emotion,Anger,Joy,22,8535,My blood pressure Edit: I'm just happy to be here.,4,-21.36541199684143,-21.371818399429323,-0.006406402587892046
+cross_emotion,Anger,Sadness,22,8535,"As a former [NAME], I apologize. That’s tough",4,-33.01147239208221,-33.006008696556094,0.0054636955261173625
+cross_emotion,Anger,Sadness,22,8535,This is beautiful and heartbreaking :(,4,-23.168918289244175,-23.144597662985326,0.024320626258848677
+cross_emotion,Anger,Sadness,22,8535,"Tried it. Failed it. Got mental consequences, my m...",4,-28.2095689535141,-28.198905888199807,0.010663065314293618
+cross_emotion,Anger,Fear,22,8535,"As a risk analyst, that's a terrible idea, Risk is...",4,-31.39885892868042,-31.344472455978394,0.054386472702024236
+cross_emotion,Anger,Fear,22,8535,Top 10 nibbas satan's too afraid to torture.,4,-21.111821937561036,-21.108107805252075,0.0037141323089606715
+cross_emotion,Anger,Fear,22,8535,"It would probably be horrifying if we tried, when ...",4,-23.90058317184448,-23.88544919490814,0.015133976936340332
+cross_emotion,Anger,Disgust,22,8535,Unhhh has not been funny for a while now. This is ...,4,-28.389305353164673,-28.32922210097313,0.06008325219154287
+cross_emotion,Anger,Disgust,22,8535,that's like a kel'thuzad/kael'thas wet dream right...,4,-26.49677538871765,-26.434253299236296,0.06252208948135518
+cross_emotion,Anger,Disgust,22,8535,"As bad as this sub was in the 1st quarter, our ann...",4,-27.809942293167115,-27.731970596313477,0.0779716968536377
+cross_emotion,Fear,Joy,24,8581,Well good luck and have fun!,4,-26.499624490737915,-26.51642084121704,-0.016796350479125977
+cross_emotion,Fear,Joy,24,8581,Glad to see we are still around :).,4,-24.648698472976683,-24.66460475921631,-0.015906286239626866
+cross_emotion,Fear,Joy,24,8581,My blood pressure Edit: I'm just happy to be here.,4,-21.36541199684143,-21.381156396865844,-0.015744400024413352
+cross_emotion,Fear,Sadness,24,8581,"As a former [NAME], I apologize. That’s tough",4,-33.01147239208221,-33.006971400976184,0.004500991106027641
+cross_emotion,Fear,Sadness,24,8581,This is beautiful and heartbreaking :(,4,-23.168918289244175,-23.15705891996622,0.011859369277953391
+cross_emotion,Fear,Sadness,24,8581,"Tried it. Failed it. Got mental consequences, my m...",4,-28.2095689535141,-28.201614585518836,0.007954367995264278
+cross_emotion,Fear,Anger,24,8581,"You're the one who's out, biggy. Out of your mind!",4,-24.543952083587648,-24.550201070308685,-0.006248986721036687
+cross_emotion,Fear,Anger,24,8581,Classic sloth fuckboi,4,-27.414205503463744,-27.433018374443055,-0.018812870979310503
+cross_emotion,Fear,Anger,24,8581,Must be so frustrating having the wrong old man fa...,4,-25.855739736557005,-25.857925367355346,-0.0021856307983405543
+cross_emotion,Fear,Disgust,24,8581,Unhhh has not been funny for a while now. This is ...,4,-28.389305353164673,-28.337551909685136,0.05175344347953725
+cross_emotion,Fear,Disgust,24,8581,that's like a kel'thuzad/kael'thas wet dream right...,4,-26.49677538871765,-26.445238679647446,0.05153670907020569
+cross_emotion,Fear,Disgust,24,8581,"As bad as this sub was in the 1st quarter, our ann...",4,-27.809942293167115,-27.75544500052929,0.05449729263782643
+cross_emotion,Disgust,Joy,25,4493,Well good luck and have fun!,4,-26.499624490737915,-26.48778142929077,0.011843061447144976
+cross_emotion,Disgust,Joy,25,4493,Glad to see we are still around :).,4,-24.648698472976683,-24.640232419967653,0.008466053009030361
+cross_emotion,Disgust,Joy,25,4493,My blood pressure Edit: I'm just happy to be here.,4,-21.36541199684143,-21.361059975624084,0.004352021217346902
+cross_emotion,Disgust,Sadness,25,4493,"As a former [NAME], I apologize. That’s tough",4,-33.01147239208221,-32.97992889285088,0.03154349923133282
+cross_emotion,Disgust,Sadness,25,4493,This is beautiful and heartbreaking :(,4,-23.168918289244175,-23.154152850806714,0.014765438437461142
+cross_emotion,Disgust,Sadness,25,4493,"Tried it. Failed it. Got mental consequences, my m...",4,-28.2095689535141,-28.18893164396286,0.020637309551240435
+cross_emotion,Disgust,Anger,25,4493,"You're the one who's out, biggy. Out of your mind!",4,-24.543952083587648,-24.5077974319458,0.036154651641847835
+cross_emotion,Disgust,Anger,25,4493,Classic sloth fuckboi,4,-27.414205503463744,-27.369698119163512,0.044507384300231934
+cross_emotion,Disgust,Anger,25,4493,Must be so frustrating having the wrong old man fa...,4,-25.855739736557005,-25.824088740348817,0.031650996208188786
+cross_emotion,Disgust,Fear,25,4493,"As a risk analyst, that's a terrible idea, Risk is...",4,-31.39885892868042,-31.399499940872193,-0.0006410121917745926
+cross_emotion,Disgust,Fear,25,4493,Top 10 nibbas satan's too afraid to torture.,4,-21.111821937561036,-21.11708607673645,-0.0052641391754129074
+cross_emotion,Disgust,Fear,25,4493,"It would probably be horrifying if we tried, when ...",4,-23.90058317184448,-23.90546898841858,-0.004885816574098811
+neutral_prompt,Joy,Joy,25,13068,The weather is,4,-35.574174880981445,-35.537652695178984,0.03652218580246114
+neutral_prompt,Joy,Joy,25,13068,Today I feel,4,-24.28442475795746,-24.243039405345918,0.04138535261154175
+neutral_prompt,Sadness,Sadness,21,4801,The weather is,4,-31.537479105591775,-31.21355471163988,0.323924393951895
+neutral_prompt,Sadness,Sadness,21,4801,Today I feel,4,-28.60452143922448,-28.43356306925416,0.17095836997032166

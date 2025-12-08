@@ -1,0 +1,40 @@
+\begin{table}[t]
+\centering
+\caption{Top-5 Promoted Tokens per Emotion Feature. Each row shows the tokens whose output probability is most increased when the corresponding emotion feature is activated. Logit values indicate the magnitude of probability boost.}
+\label{tab:downstream}
+\begin{tabular}{lclc}
+\toprule
+Emotion & Rank & Token & Logit $\Delta$ \\
+\midrule
+\multirow{5}{*}{Joy} & 1 & :) & +1.53 \\
+ & 2 & :] & +1.32 \\
+ & 3 & \^{}\_\^{} & +1.30 \\
+ & 4 & =) & +1.29 \\
+ & 5 & :)) & +1.28 \\
+\addlinespace
+\multirow{5}{*}{Sadness} & 1 & sad & +1.73 \\
+ & 2 & :( & +1.71 \\
+ & 3 & :-( & +1.54 \\
+ & 4 & bummer & +1.53 \\
+ & 5 & 😔 & +1.48 \\
+\addlinespace
+\multirow{5}{*}{Anger} & 1 & Stop & +1.29 \\
+ & 2 & why & +1.18 \\
+ & 3 & wtf & +0.96 \\
+ & 4 & Seriously & +0.91 \\
+ & 5 & autorytatywna & +0.87 \\
+\addlinespace
+\multirow{5}{*}{Fear} & 1 & fear & +2.22 \\
+ & 2 & scared & +1.91 \\
+ & 3 & terrified & +1.78 \\
+ & 4 & afraid & +1.78 \\
+ & 5 & frightened & +1.74 \\
+\addlinespace
+\multirow{5}{*}{Disgust} & 1 & why & +0.83 \\
+ & 2 & stop & +0.78 \\
+ & 3 & rungsseite & +0.72 \\
+ & 4 & people & +0.70 \\
+ & 5 & Shame & +0.70 \\
+\bottomrule
+\end{tabular}
+\end{table}
