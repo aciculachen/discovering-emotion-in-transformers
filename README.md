@@ -76,7 +76,7 @@ pip install -r requirements.txt
 
 ## Reproduction
 
-### Option 1: Visualization Only (CPU, ~5 minutes)
+### Option 1: Visualization Only (CPU)
 
 Uses pre-computed CSV files to generate figures:
 
@@ -90,7 +90,7 @@ This will generate:
 - `results/figures/steering_*.png` - Steering effect plots
 - `results/tables/steering_examples.tex` - Steering examples table
 
-### Option 2: Full Reproduction (GPU, ~2-3 hours)
+### Option 2: Full Reproduction (GPU)
 
 Runs all experiments from scratch:
 
