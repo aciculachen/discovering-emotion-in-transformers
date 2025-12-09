@@ -81,8 +81,8 @@ def plot_combined_ablation(stats, output_path):
 
     combined = [stats[e]["combined"] for e in emotions_with_data]
 
-    bars = ax.bar(x, combined, width, color="#FF6A00", alpha=0.9,
-                  edgecolor="#FF6A00", linewidth=0.8)
+    bars = ax.bar(x, combined, width, color="#5B7DB1", alpha=0.9,
+                  edgecolor="#5B7DB1", linewidth=0.8)
 
     for bar, val in zip(bars, combined):
         height = bar.get_height()

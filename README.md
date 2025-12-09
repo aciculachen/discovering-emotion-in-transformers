@@ -38,10 +38,7 @@ submission/
 │   ├── validation.py         # Confound & cross-emotion validation
 │   ├── steering.py           # Steering experiments
 │   ├── steering_generation.py # Text generation with steering
-│   ├── circuit.py            # Circuit analysis (main)
-│   ├── anger_circuit.py      # Anger circuit analysis
-│   ├── fear_circuit.py       # Fear circuit analysis
-│   └── disgust_circuit.py    # Disgust circuit analysis
+│   └── circuit.py            # Circuit analysis
 │
 ├── viz/                      # Visualization scripts
 │   ├── theme.py              # Unified theme (colors, fonts)
